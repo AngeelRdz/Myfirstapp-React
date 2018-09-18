@@ -1,0 +1,28 @@
+{
+    "tareas":[
+        {
+            "title": "Tarea 1",
+            "responsible": "Angeel",
+            "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Labore nostrum omnis quae quas similique itaque voluptas dignissimos animi, ex tenetur quasi perferendis. Facilis in doloribus explicabo! Placeat nisi facere architecto.",
+            "priority": "baja"
+        },
+        {
+            "title": "Tarea 2",
+            "responsible": "José Angel",
+            "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Labore nostrum omnis quae quas similique itaque voluptas dignissimos animi, ex tenetur quasi perferendis. Facilis in doloribus explicabo! Placeat nisi facere architecto.",
+            "priority": "media"
+        },
+        {
+            "title": "Tarea 3",
+            "responsible": "Pepe Angeel",
+            "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Labore nostrum omnis quae quas similique itaque voluptas dignissimos animi, ex tenetur quasi perferendis. Facilis in doloribus explicabo! Placeat nisi facere architecto.",
+            "priority": "alta"
+        },
+        {
+            "title": "Tarea 4",
+            "responsible": "Angeel Rdz",
+            "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Labore nostrum omnis quae quas similique itaque voluptas dignissimos animi, ex tenetur quasi perferendis. Facilis in doloribus explicabo! Placeat nisi facere architecto.",
+            "priority": "baja"
+        }
+    ]
+}
